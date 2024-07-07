@@ -1,6 +1,5 @@
 # AppWin
 
-## Overview
 This Employee Management App is a Java-based application developed using BlueJ. It allows users to manage employee data effectively, including viewing, searching, and removing employee records. The application uses a graphical user interface (GUI) for user interactions.
 
 ## Features
