@@ -8,6 +8,7 @@ This Employee Management App is a Java-based application developed using BlueJ. 
 - **Remove an Employee**: Facilitates the deletion of an existing employee record.
 - **Search Employee**: Provides functionality to search for employees based on criteria.
 - **View Employee Details**: Displays detailed information of all employees.
+
 ![image](https://github.com/itsfazalkhan/AppWin/assets/76101591/96f9e478-5ba4-4e04-9df4-e0f75c65829e)
 
 
