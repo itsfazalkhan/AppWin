@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=SearchView
+comment1.params=key
+comment1.target=SearchView(java.lang.String[])
+comment2.params=
+comment2.target=void\ getData()
+comment3.params=
+comment3.target=void\ close()
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5
