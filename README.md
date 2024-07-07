@@ -16,7 +16,7 @@ This Employee Management App is a Java-based application developed using BlueJ. 
 
 
 ## UML Diagram
-![UML Diagram]([./path-to-your-image.png](https://github.com/itsfazalkhan/AppWin/assets/76101591/c14899ea-87e0-42b3-bb92-98d09401bd09))
+![UML Diagram](https://github.com/itsfazalkhan/AppWin/assets/76101591/c14899ea-87e0-42b3-bb92-98d09401bd09)
 
 ## Getting Started
 ### Prerequisites
